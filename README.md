@@ -306,6 +306,5 @@ This project is part of my data science portfolio.
 **Sahand Yousefi**
 
 - GitHub: [@sahandyousefi](https://github.com/sahandyousefi)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sahand-yousefi/)
 
 For questions or feedback about this project, feel free to reach out or open an issue in the repository.
